@@ -27,7 +27,7 @@ configured on the server.
 
 Inputs follow the same syntax as [`sprocket run`](/reference/cli/run#inputs), including key-value
 pairs, `@`-prefixed input files, and the ergonomic
-[array input forms](/reference/cli/run#array-inputs).
+[array input forms](/concepts/inputs#array-inputs).
 
 ## Targets and input keys
 
